@@ -6,3 +6,4 @@ def ft_inch_to_m(str_arg):
 
 
 print(ft_inch_to_m("6 3"))
+.

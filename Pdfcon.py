@@ -29,3 +29,4 @@ while True:
             exit()
 
     window.close()
+    .
